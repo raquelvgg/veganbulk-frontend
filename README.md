@@ -1,2 +1,19 @@
 # veganbulk-frontend
-Aplicación frontend de VeganBulk, un ecosistema fitness vegano para culturismo natural. Desarrollada con React y TailwindCSS, incluye seguimiento nutricional, gestión de entrenamientos, dashboards y recomendaciones inteligentes.
+Frontend application for VeganBulk built with React, Vite, and TailwindCSS.
+
+## Tech Stack
+- React
+- Vite
+- TailwindCSS
+- Axios
+- React Router
+
+## Features
+- Authentication
+- Nutrition tracking
+- Workout management
+- Dashboard analytics
+- Responsive UI
+
+## Status
+Project in development.
